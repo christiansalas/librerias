@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1538623612 source:c:\users\cris_\onedrive\desktop\libreriasparaparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"parcial.h"
+	"ctype.h"
+	"arrays.h"
+
+1538622655 c:\users\cris_\onedrive\desktop\libreriasparaparcial\parcial.h
+
+1538625019 c:\users\cris_\onedrive\desktop\libreriasparaparcial\arrays.h
+
+1538623612 source:c:\users\cris_\onedrive\desktop\libreriasparaparcial\parcial.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"parcial.h"
+	"ctype.h"
+	"arrays.h"
+
+1538625019 source:c:\users\cris_\onedrive\desktop\libreriasparaparcial\arrays.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"parcial.h"
+	"ctype.h"
+
