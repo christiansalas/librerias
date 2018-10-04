@@ -14,6 +14,9 @@ int utn_calcularNumeroMaximo(int *pArray,int limite,int *maximo);
 
 //void imprimirEmpleados(Employees* list, int len);
 int ordenarInsertion(int* pArray,int limite);
+int utn_getLetrasYNumeros(char* pBuffer,int limite,char* msj);
+
+
 
 
 

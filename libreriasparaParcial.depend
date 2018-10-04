@@ -29,3 +29,25 @@
 	"parcial.h"
 	"ctype.h"
 
+1538625153 source:c:\users\cris_\onedrive\desktop\nueva carpeta\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"parcial.h"
+	"ctype.h"
+	"arrays.h"
+
+1538622655 c:\users\cris_\onedrive\desktop\nueva carpeta\librerias\parcial.h
+
+1538675412 c:\users\cris_\onedrive\desktop\nueva carpeta\librerias\arrays.h
+
+1538623612 source:c:\users\cris_\onedrive\desktop\nueva carpeta\librerias\parcial.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"parcial.h"
+	"ctype.h"
+	"arrays.h"
+

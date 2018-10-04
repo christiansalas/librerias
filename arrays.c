@@ -407,5 +407,16 @@ int ordenarInsertion(int* pArray,int limite)
     }
     return 0;
 }
+int utn_getLetrasYNumeros(char* pBuffer,int limite,char* msj)
+{
+    int retorno=-1;
+    char aux[limite];
+    printf("%s",msj);
+    if (pBuffer!=NULL&&limite>0&&getString(aux,limite)==0){
+            retorno=0;
+            strncpy(pBuffer,aux,limite);
+}
+    return retorno;
+}
 
 
